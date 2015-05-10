@@ -10,7 +10,7 @@ View demo [here](http://www.pinceladasdaweb.com.br/blog/uploads/coderwidget/).
 
 ```bash
 # Get the latest snapshot
-$ git clone https://github.com/pinceladasdaweb/Awesomstar.git
+$ git clone git@github.com:pinceladasdaweb/Coderwidget.git
 ```
 
 The script depends on the following HTML markup:
